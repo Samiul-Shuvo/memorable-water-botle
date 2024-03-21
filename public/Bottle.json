@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Bottle A", "volume": "500ml", "color": "blue" },
+    { "id": 2, "name": "Bottle B", "volume": "750ml", "color": "green" },
+    { "id": 3, "name": "Bottle C", "volume": "1 liter", "color": "red" },
+    { "id": 4, "name": "Bottle D", "volume": "500ml", "color": "yellow" },
+    { "id": 5, "name": "Bottle E", "volume": "1.5 liters", "color": "purple" },
+    { "id": 6, "name": "Bottle F", "volume": "750ml", "color": "orange" },
+    { "id": 7, "name": "Bottle G", "volume": "500ml", "color": "pink" },
+    { "id": 8, "name": "Bottle H", "volume": "1 liter", "color": "black" },
+    { "id": 9, "name": "Bottle I", "volume": "750ml", "color": "white" },
+    { "id": 10, "name": "Bottle J", "volume": "2 liters", "color": "brown" }
+  ]
+  
